@@ -1,0 +1,2 @@
+- Run using cmd:- python manage.py runserver77
+- 7You will get a localhost link, open it in browser and use this website.
