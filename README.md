@@ -1,5 +1,5 @@
 - Clone this repo.
-- Open the cmd.
+- Open the cmd and navigate to this project folder path.
 - Install requirements using command :- pip install -r requirements.txt
 - Now run the website using command :- python manage.py runserver
 - You will get a localhost link, open it in browser and use this website.
